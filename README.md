@@ -1,2 +1,2 @@
-# stock-exchange
-A Stock Prediction Python Project Based On Machine Learning
+# forex-exchange
+A Forex Prediction Python Project Based On Machine Learning
